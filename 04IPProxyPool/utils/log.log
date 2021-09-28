@@ -1,0 +1,12 @@
+2021-01-18 23:11:41 log.py [line:60] INFO: 状态信息
+2021-01-18 23:11:41 log.py [line:61] WARNING: 警告信息
+2021-01-18 23:11:41 log.py [line:62] ERROR: 错误信息
+2021-01-18 23:11:41 log.py [line:63] CRITICAL: 严重错误信息
+2021-01-18 23:22:44 log.py [line:57] INFO: 状态信息
+2021-01-18 23:22:44 log.py [line:58] WARNING: 警告信息
+2021-01-18 23:22:44 log.py [line:59] ERROR: 错误信息
+2021-01-18 23:22:44 log.py [line:60] CRITICAL: 严重错误信息
+2021-02-21 23:27:42 log.py [line:57] INFO: 状态信息
+2021-02-21 23:27:42 log.py [line:58] WARNING: 警告信息
+2021-02-21 23:27:42 log.py [line:59] ERROR: 错误信息
+2021-02-21 23:27:42 log.py [line:60] CRITICAL: 严重错误信息

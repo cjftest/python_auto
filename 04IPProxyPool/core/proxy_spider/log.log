@@ -1,0 +1,1795 @@
+2021-05-10 23:52:17 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '212.179.18.75', 'port': '3128', 'protocol': 2, 'nick_type': 2, 'speed': 0.95, 'area': '以色列 Tel Aviv 特拉维夫', 'score': 50, 'disable_domains': [], '_id': '212.179.18.75'}
+2021-05-10 23:52:20 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '41.59.90.92', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 1.8, 'area': '坦桑尼亚 Dar es Salaam Region 达累斯萨拉姆', 'score': 50, 'disable_domains': [], '_id': '41.59.90.92'}
+2021-05-10 23:52:21 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '65.21.3.120', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 0.61, 'area': '芬兰 Uusimaa XX', 'score': 50, 'disable_domains': [], '_id': '65.21.3.120'}
+2021-05-10 23:52:25 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '103.99.77.254', 'port': '3128', 'protocol': 2, 'nick_type': 2, 'speed': 0.81, 'area': '中国 香港 XX', 'score': 50, 'disable_domains': [], '_id': '103.99.77.254'}
+2021-05-10 23:52:26 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '78.47.16.54', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 0.67, 'area': '德国 巴伐利亚 纽伦堡', 'score': 50, 'disable_domains': [], '_id': '78.47.16.54'}
+2021-05-10 23:52:42 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '119.29.2.18', 'port': '8081', 'protocol': 0, 'nick_type': 0, 'speed': 1.98, 'area': '中国 广东省 广州市', 'score': 50, 'disable_domains': [], '_id': '119.29.2.18'}
+2021-05-10 23:52:48 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '202.61.51.204', 'port': '3128', 'protocol': 0, 'nick_type': 0, 'speed': 3.47, 'area': '巴基斯坦 XX XX', 'score': 50, 'disable_domains': [], '_id': '202.61.51.204'}
+2021-05-10 23:52:52 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '103.7.10.118', 'port': '80', 'protocol': 0, 'nick_type': 2, 'speed': 3.58, 'area': '新加坡 XX XX', 'score': 50, 'disable_domains': [], '_id': '103.7.10.118'}
+2021-05-10 23:53:05 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '116.17.102.125', 'port': '3128', 'protocol': 0, 'nick_type': 2, 'speed': 1.05, 'area': '中国 广东 惠州', 'score': 50, 'disable_domains': [], '_id': '116.17.102.125'}
+2021-05-10 23:53:09 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '113.100.209.211', 'port': '3128', 'protocol': 2, 'nick_type': 2, 'speed': 2.03, 'area': '中国 广东省 惠州市', 'score': 50, 'disable_domains': [], '_id': '113.100.209.211'}
+2021-05-10 23:53:22 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '167.99.118.98', 'port': '8080', 'protocol': 0, 'nick_type': 2, 'speed': 0.58, 'area': '美国 新泽西州 克利夫頓', 'score': 50, 'disable_domains': [], '_id': '167.99.118.98'}
+2021-05-10 23:53:24 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '216.21.18.194', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 0.55, 'area': '美国 华盛顿 XX', 'score': 50, 'disable_domains': [], '_id': '216.21.18.194'}
+2021-05-10 23:53:27 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '186.225.117.58', 'port': '80', 'protocol': 2, 'nick_type': 0, 'speed': 1.31, 'area': '巴西 XX XX', 'score': 50, 'disable_domains': [], '_id': '186.225.117.58'}
+2021-05-10 23:53:37 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '120.10.146.61', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 0.7, 'area': '中国 河北省 Gaocheng', 'score': 50, 'disable_domains': [], '_id': '120.10.146.61'}
+2021-05-10 23:53:47 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '75.119.144.28', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 0.69, 'area': '美国 佛罗里达 XX', 'score': 50, 'disable_domains': [], '_id': '75.119.144.28'}
+2021-05-10 23:54:00 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '220.174.236.211', 'port': '8091', 'protocol': 1, 'nick_type': 0, 'speed': 2.79, 'area': '中国 海南省 海口市', 'score': 50, 'disable_domains': [], '_id': '220.174.236.211'}
+2021-05-10 23:54:02 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '132.248.196.2', 'port': '8080', 'protocol': 0, 'nick_type': 0, 'speed': 0.71, 'area': '墨西哥 米却肯州 莫雷利亚', 'score': 50, 'disable_domains': [], '_id': '132.248.196.2'}
+2021-05-10 23:54:12 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '47.241.16.190', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 0.72, 'area': '新加坡 XX XX', 'score': 50, 'disable_domains': [], '_id': '47.241.16.190'}
+2021-05-10 23:54:14 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '183.88.226.50', 'port': '8080', 'protocol': 2, 'nick_type': 0, 'speed': 0.75, 'area': '泰国 曼谷 曼谷', 'score': 50, 'disable_domains': [], '_id': '183.88.226.50'}
+2021-05-10 23:55:04 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '219.92.3.149', 'port': '8080', 'protocol': 0, 'nick_type': 0, 'speed': 0.92, 'area': '马来西亚 吉隆坡 ', 'score': 50, 'disable_domains': [], '_id': '219.92.3.149'}
+2021-05-10 23:55:05 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '185.235.41.85', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 0.77, 'area': '荷兰 Flevoland Dronten', 'score': 50, 'disable_domains': [], '_id': '185.235.41.85'}
+2021-05-10 23:57:06 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '41.59.90.92', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 1.43, 'area': '坦桑尼亚 Dar es Salaam Region 达累斯萨拉姆', 'score': 50, 'disable_domains': []}
+2021-05-10 23:57:09 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '212.179.18.75', 'port': '3128', 'protocol': 2, 'nick_type': 2, 'speed': 1.1, 'area': '以色列 Tel Aviv 特拉维夫', 'score': 50, 'disable_domains': []}
+2021-05-10 23:57:19 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '202.61.51.204', 'port': '3128', 'protocol': 2, 'nick_type': 0, 'speed': 1.45, 'area': '巴基斯坦 XX XX', 'score': 50, 'disable_domains': []}
+2021-05-10 23:57:20 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '182.92.239.16', 'port': '8080', 'protocol': 0, 'nick_type': 0, 'speed': 0.84, 'area': '中国 浙江省 西湖', 'score': 50, 'disable_domains': [], '_id': '182.92.239.16'}
+2021-05-10 23:57:23 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '78.47.16.54', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 1.04, 'area': '德国 巴伐利亚 纽伦堡', 'score': 50, 'disable_domains': []}
+2021-05-10 23:57:26 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '103.99.77.254', 'port': '3128', 'protocol': 2, 'nick_type': 2, 'speed': 0.89, 'area': '中国 香港 XX', 'score': 50, 'disable_domains': []}
+2021-05-10 23:58:03 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '216.21.18.194', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 0.47, 'area': '美国 华盛顿 XX', 'score': 50, 'disable_domains': []}
+2021-05-10 23:58:07 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '186.225.117.58', 'port': '80', 'protocol': 2, 'nick_type': 0, 'speed': 1.33, 'area': '巴西 XX XX', 'score': 50, 'disable_domains': []}
+2021-05-10 23:58:08 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '103.7.10.118', 'port': '80', 'protocol': 0, 'nick_type': 2, 'speed': 0.46, 'area': '新加坡 XX XX', 'score': 50, 'disable_domains': []}
+2021-05-10 23:58:11 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '116.17.102.125', 'port': '3128', 'protocol': 2, 'nick_type': 2, 'speed': 0.33, 'area': '中国 广东 惠州', 'score': 50, 'disable_domains': []}
+2021-05-10 23:58:12 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '167.99.118.98', 'port': '8080', 'protocol': 0, 'nick_type': 2, 'speed': 0.46, 'area': '美国 新泽西州 克利夫頓', 'score': 50, 'disable_domains': []}
+2021-05-10 23:58:30 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '75.119.144.28', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 0.68, 'area': '美国 佛罗里达 XX', 'score': 50, 'disable_domains': []}
+2021-05-10 23:58:31 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '120.10.146.61', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 0.64, 'area': '中国 河北省 Gaocheng', 'score': 50, 'disable_domains': []}
+2021-05-10 23:58:33 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '220.174.236.211', 'port': '8091', 'protocol': 2, 'nick_type': 0, 'speed': 0.62, 'area': '中国 海南省 海口市', 'score': 50, 'disable_domains': []}
+2021-05-10 23:58:35 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '132.248.196.2', 'port': '8080', 'protocol': 2, 'nick_type': 0, 'speed': 0.73, 'area': '墨西哥 米却肯州 莫雷利亚', 'score': 50, 'disable_domains': []}
+2021-05-10 23:58:49 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '183.88.226.50', 'port': '8080', 'protocol': 2, 'nick_type': 0, 'speed': 0.8, 'area': '泰国 曼谷 曼谷', 'score': 50, 'disable_domains': []}
+2021-05-10 23:59:14 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '219.92.3.149', 'port': '8080', 'protocol': 0, 'nick_type': 0, 'speed': 0.92, 'area': '马来西亚 吉隆坡 ', 'score': 50, 'disable_domains': []}
+2021-05-10 23:59:25 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '185.235.41.85', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 1.77, 'area': '荷兰 Flevoland Dronten', 'score': 50, 'disable_domains': []}
+2021-05-10 23:59:27 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '193.149.225.72', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 0.63, 'area': '德国 法兰克福 法兰克福', 'score': 50, 'disable_domains': [], '_id': '193.149.225.72'}
+2021-05-11 23:15:06 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '103.28.121.58', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 1.58, 'area': '孟加拉 XX XX', 'score': 50, 'disable_domains': [], '_id': '103.28.121.58'}
+2021-05-11 23:15:09 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '77.68.125.33', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 1.98, 'area': '英国 英格兰 格洛斯特', 'score': 50, 'disable_domains': [], '_id': '77.68.125.33'}
+2021-05-11 23:15:26 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '218.204.153.156', 'port': '443', 'protocol': 0, 'nick_type': 0, 'speed': 7.36, 'area': '中国 江西 吉安', 'score': 50, 'disable_domains': [], '_id': '218.204.153.156'}
+2021-05-11 23:15:38 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '167.172.180.40', 'port': '44544', 'protocol': 2, 'nick_type': 0, 'speed': 3.57, 'area': '德国 Hesse 法兰克福', 'score': 50, 'disable_domains': [], '_id': '167.172.180.40'}
+2021-05-11 23:16:03 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '203.80.191.2', 'port': '80', 'protocol': 0, 'nick_type': 2, 'speed': 0.76, 'area': '孟加拉 XX XX', 'score': 50, 'disable_domains': [], '_id': '203.80.191.2'}
+2021-05-11 23:16:14 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '216.21.18.194', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 6.46, 'area': '美国 华盛顿 XX', 'score': 50, 'disable_domains': []}
+2021-05-11 23:16:16 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '91.202.230.219', 'port': '8080', 'protocol': 0, 'nick_type': 0, 'speed': 1.52, 'area': '波兰 Lubusz Żagań', 'score': 50, 'disable_domains': [], '_id': '91.202.230.219'}
+2021-05-11 23:16:20 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '186.225.117.58', 'port': '80', 'protocol': 2, 'nick_type': 0, 'speed': 1.34, 'area': '巴西 XX XX', 'score': 50, 'disable_domains': []}
+2021-05-11 23:29:03 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '216.21.18.194', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 4.57, 'area': '美国 华盛顿 XX', 'score': 50, 'disable_domains': []}
+2021-05-11 23:44:26 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '45.32.101.24', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 4.47, 'area': '新加坡 XX XX', 'score': 50, 'disable_domains': [], '_id': '45.32.101.24'}
+2021-05-11 23:44:48 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '52.66.5.63', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 0.68, 'area': '印度 马哈拉施特拉 孟买', 'score': 50, 'disable_domains': [], '_id': '52.66.5.63'}
+2021-05-11 23:45:26 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '211.43.214.205', 'port': '80', 'protocol': 0, 'nick_type': 2, 'speed': 11.45, 'area': '韩国 首尔 首尔', 'score': 50, 'disable_domains': [], '_id': '211.43.214.205'}
+2021-05-11 23:45:42 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '188.233.55.147', 'port': '80', 'protocol': 1, 'nick_type': 0, 'speed': 6.38, 'area': '俄罗斯联邦 Volgograd Oblast 伏尔加格勒', 'score': 50, 'disable_domains': [], '_id': '188.233.55.147'}
+2021-05-11 23:45:44 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '161.97.172.58', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 0.73, 'area': '德国 North Rhine-Westphal 杜塞尔多夫', 'score': 50, 'disable_domains': [], '_id': '161.97.172.58'}
+2021-05-11 23:45:50 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '65.21.3.120', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 2.89, 'area': '芬兰 Uusimaa XX', 'score': 50, 'disable_domains': []}
+2021-05-11 23:45:52 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '203.80.191.2', 'port': '80', 'protocol': 0, 'nick_type': 2, 'speed': 0.56, 'area': '孟加拉 XX XX', 'score': 50, 'disable_domains': []}
+2021-05-11 23:45:54 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '128.148.36.114', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 0.58, 'area': '美国 Rhode Island 普罗维登斯', 'score': 50, 'disable_domains': [], '_id': '128.148.36.114'}
+2021-05-11 23:45:54 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '117.28.246.15', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 0.59, 'area': '中国 福建 泉州', 'score': 50, 'disable_domains': [], '_id': '117.28.246.15'}
+2021-05-11 23:45:56 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '39.102.32.69', 'port': '3128', 'protocol': 0, 'nick_type': 2, 'speed': 1.37, 'area': '中国 北京 北京', 'score': 50, 'disable_domains': [], '_id': '39.102.32.69'}
+2021-05-11 23:46:00 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '194.146.32.18', 'port': '80', 'protocol': 0, 'nick_type': 2, 'speed': 2.19, 'area': '黎巴嫩 Beyrouth 贝鲁特', 'score': 50, 'disable_domains': [], '_id': '194.146.32.18'}
+2021-05-11 23:46:02 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '183.47.237.251', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 1.2, 'area': '中国 广东 广州', 'score': 50, 'disable_domains': [], '_id': '183.47.237.251'}
+2021-05-11 23:46:16 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '103.100.96.174', 'port': '55443', 'protocol': 2, 'nick_type': 0, 'speed': 2.44, 'area': '亚太地区', 'score': 50, 'disable_domains': [], '_id': '103.100.96.174'}
+2021-05-11 23:46:20 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '122.9.83.134', 'port': '3128', 'protocol': 0, 'nick_type': 2, 'speed': 0.67, 'area': '中国 上海 上海', 'score': 50, 'disable_domains': [], '_id': '122.9.83.134'}
+2021-05-11 23:46:21 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '129.204.182.65', 'port': '9999', 'protocol': 0, 'nick_type': 0, 'speed': 0.63, 'area': '中国 广东 广州', 'score': 50, 'disable_domains': [], '_id': '129.204.182.65'}
+2021-05-11 23:46:22 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '113.195.143.70', 'port': '8085', 'protocol': 0, 'nick_type': 0, 'speed': 0.75, 'area': '中国 江西 上饶', 'score': 50, 'disable_domains': [], '_id': '113.195.143.70'}
+2021-05-11 23:46:23 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '171.35.115.97', 'port': '8085', 'protocol': 0, 'nick_type': 0, 'speed': 0.67, 'area': '中国 江西 上饶', 'score': 50, 'disable_domains': [], '_id': '171.35.115.97'}
+2021-05-11 23:46:26 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '175.143.37.162', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 0.99, 'area': '马来西亚 Selangor 八打灵再也', 'score': 50, 'disable_domains': [], '_id': '175.143.37.162'}
+2021-05-11 23:46:29 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '35.172.135.29', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 1.59, 'area': '美国 弗吉尼亚 阿什本', 'score': 50, 'disable_domains': [], '_id': '35.172.135.29'}
+2021-05-11 23:46:30 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '222.39.6.170', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 1.06, 'area': '中国 北京市 北京', 'score': 50, 'disable_domains': [], '_id': '222.39.6.170'}
+2021-05-11 23:46:51 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '54.254.142.254', 'port': '80', 'protocol': 0, 'nick_type': 2, 'speed': 0.39, 'area': '新加坡 XX XX', 'score': 50, 'disable_domains': [], '_id': '54.254.142.254'}
+2021-05-11 23:46:59 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '219.92.3.149', 'port': '8080', 'protocol': 0, 'nick_type': 0, 'speed': 1.18, 'area': '马来西亚 吉隆坡 ', 'score': 50, 'disable_domains': []}
+2021-05-11 23:47:12 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '36.91.194.25', 'port': '8080', 'protocol': 2, 'nick_type': 2, 'speed': 6.62, 'area': '印度尼西亚', 'score': 50, 'disable_domains': [], '_id': '36.91.194.25'}
+2021-05-11 23:47:14 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '222.39.6.170', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 2.3, 'area': '中国 北京市 北京', 'score': 50, 'disable_domains': []}
+2021-05-11 23:47:17 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '35.172.135.29', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 0.99, 'area': '美国 弗吉尼亚 阿什本', 'score': 50, 'disable_domains': []}
+2021-05-11 23:47:28 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '54.254.142.254', 'port': '80', 'protocol': 0, 'nick_type': 2, 'speed': 0.65, 'area': '新加坡 XX XX', 'score': 50, 'disable_domains': []}
+2021-05-11 23:47:36 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '103.84.129.213', 'port': '8080', 'protocol': 1, 'nick_type': 0, 'speed': 13.27, 'area': '亚太地区', 'score': 50, 'disable_domains': [], '_id': '103.84.129.213'}
+2021-05-11 23:47:49 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '52.143.81.17', 'port': '3128', 'protocol': 2, 'nick_type': 2, 'speed': 0.55, 'area': '美国 华盛顿 XX', 'score': 50, 'disable_domains': [], '_id': '52.143.81.17'}
+2021-05-11 23:47:53 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '219.92.3.149', 'port': '8080', 'protocol': 0, 'nick_type': 0, 'speed': 0.93, 'area': '马来西亚 吉隆坡 ', 'score': 50, 'disable_domains': []}
+2021-05-11 23:48:17 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '219.92.3.149', 'port': '8080', 'protocol': 0, 'nick_type': 0, 'speed': 1.07, 'area': '马来西亚 吉隆坡 ', 'score': 50, 'disable_domains': []}
+2021-05-11 23:48:20 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '52.143.81.17', 'port': '3128', 'protocol': 2, 'nick_type': 2, 'speed': 0.72, 'area': '美国 华盛顿 XX', 'score': 50, 'disable_domains': []}
+2021-05-11 23:48:23 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '187.111.160.29', 'port': '40098', 'protocol': 1, 'nick_type': 0, 'speed': 6.0, 'area': '巴西', 'score': 50, 'disable_domains': [], '_id': '187.111.160.29'}
+2021-05-12 23:32:28 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '104.43.230.151', 'port': '3128', 'protocol': 0, 'nick_type': 2, 'speed': 0.57, 'area': '美国 艾奥瓦 得梅因', 'score': 50, 'disable_domains': [], '_id': '104.43.230.151'}
+2021-05-12 23:33:00 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '75.119.144.28', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 0.67, 'area': '美国 佛罗里达 XX', 'score': 50, 'disable_domains': []}
+2021-05-12 23:34:11 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '183.47.237.251', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 2.91, 'area': '中国 广东 广州', 'score': 50, 'disable_domains': []}
+2021-05-12 23:34:12 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '35.172.135.29', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 0.48, 'area': '美国 弗吉尼亚 阿什本', 'score': 50, 'disable_domains': []}
+2021-05-12 23:34:15 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '1.181.48.68', 'port': '3128', 'protocol': 2, 'nick_type': 2, 'speed': 0.81, 'area': '中国 内蒙古 赤峰市', 'score': 50, 'disable_domains': [], '_id': '1.181.48.68'}
+2021-05-12 23:34:55 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '129.204.182.65', 'port': '9999', 'protocol': 0, 'nick_type': 0, 'speed': 0.56, 'area': '中国 广东 广州', 'score': 50, 'disable_domains': []}
+2021-05-12 23:35:16 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '129.204.182.65', 'port': '9999', 'protocol': 0, 'nick_type': 0, 'speed': 0.77, 'area': '中国 广东 广州', 'score': 50, 'disable_domains': []}
+2021-05-12 23:35:32 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '113.195.139.65', 'port': '8085', 'protocol': 0, 'nick_type': 0, 'speed': 0.66, 'area': '中国 江西 上饶', 'score': 50, 'disable_domains': [], '_id': '113.195.139.65'}
+2021-05-12 23:35:32 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '14.119.82.122', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 0.62, 'area': '中国 广东省 佛山市', 'score': 50, 'disable_domains': [], '_id': '14.119.82.122'}
+2021-05-12 23:35:33 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '171.35.115.97', 'port': '8085', 'protocol': 0, 'nick_type': 0, 'speed': 0.75, 'area': '中国 江西 上饶', 'score': 50, 'disable_domains': []}
+2021-05-12 23:35:34 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '58.240.52.114', 'port': '80', 'protocol': 0, 'nick_type': 2, 'speed': 0.02, 'area': '中国 江苏 南京', 'score': 50, 'disable_domains': [], '_id': '58.240.52.114'}
+2021-05-12 23:35:36 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '34.220.253.190', 'port': '80', 'protocol': 0, 'nick_type': 2, 'speed': 0.58, 'area': '美国 俄勒冈州 波特蘭', 'score': 50, 'disable_domains': [], '_id': '34.220.253.190'}
+2021-05-12 23:35:52 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '104.43.230.151', 'port': '3128', 'protocol': 0, 'nick_type': 2, 'speed': 1.19, 'area': '美国 艾奥瓦 得梅因', 'score': 50, 'disable_domains': []}
+2021-05-12 23:36:02 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '104.248.160.192', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 9.18, 'area': '北美地区', 'score': 50, 'disable_domains': [], '_id': '104.248.160.192'}
+2021-05-12 23:36:24 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '75.119.144.28', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 1.42, 'area': '美国 佛罗里达 XX', 'score': 50, 'disable_domains': []}
+2021-05-12 23:36:42 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '116.117.134.135', 'port': '80', 'protocol': 0, 'nick_type': 2, 'speed': 0.62, 'area': '中国 内蒙古自治区 赛罕', 'score': 50, 'disable_domains': [], '_id': '116.117.134.135'}
+2021-05-12 23:36:42 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '116.117.134.135', 'port': '81', 'protocol': 0, 'nick_type': 2, 'speed': 0.38, 'area': '中国 内蒙古自治区 赛罕', 'score': 50, 'disable_domains': []}
+2021-05-12 23:36:43 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '101.205.120.102', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 0.24, 'area': '中国 北京市 朝阳', 'score': 50, 'disable_domains': [], '_id': '101.205.120.102'}
+2021-05-12 23:36:55 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '192.118.34.218', 'port': '80', 'protocol': 2, 'nick_type': 2, 'speed': 0.6, 'area': '以色列 Central District Yad Binyamin', 'score': 50, 'disable_domains': [], '_id': '192.118.34.218'}
+2021-05-12 23:37:02 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '116.117.134.135', 'port': '8828', 'protocol': 0, 'nick_type': 2, 'speed': 7.18, 'area': '中国 内蒙古自治区 赛罕', 'score': 50, 'disable_domains': []}
+2021-05-12 23:37:16 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '120.232.150.100', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 3.68, 'area': '中国 广东 广州', 'score': 50, 'disable_domains': [], '_id': '120.232.150.100'}
+2021-05-12 23:37:21 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '216.21.18.194', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 2.42, 'area': '美国 华盛顿 XX', 'score': 50, 'disable_domains': []}
+2021-05-12 23:37:55 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '159.65.2.252', 'port': '8080', 'protocol': 0, 'nick_type': 2, 'speed': 7.3, 'area': '新加坡 XX XX', 'score': 50, 'disable_domains': [], '_id': '159.65.2.252'}
+2021-05-12 23:37:56 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '45.114.88.6', 'port': '80', 'protocol': 0, 'nick_type': 2, 'speed': 0.65, 'area': '孟加拉 XX XX', 'score': 50, 'disable_domains': [], '_id': '45.114.88.6'}
+2021-05-12 23:38:04 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '203.74.120.79', 'port': '3128', 'protocol': 2, 'nick_type': 2, 'speed': 0.41, 'area': '中国 台湾 XX', 'score': 50, 'disable_domains': [], '_id': '203.74.120.79'}
+2021-05-12 23:38:07 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '116.17.102.36', 'port': '3128', 'protocol': 2, 'nick_type': 2, 'speed': 1.38, 'area': '中国 广东 广州', 'score': 50, 'disable_domains': [], '_id': '116.17.102.36'}
+2021-05-12 23:38:09 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '81.83.2.227', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 1.17, 'area': '比利时 XX XX', 'score': 50, 'disable_domains': [], '_id': '81.83.2.227'}
+2021-05-12 23:38:11 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '175.143.37.162', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 1.04, 'area': '马来西亚 Selangor 八打灵再也', 'score': 50, 'disable_domains': []}
+2021-05-12 23:38:26 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '88.205.225.203', 'port': '3128', 'protocol': 0, 'nick_type': 2, 'speed': 5.02, 'area': '俄罗斯 XX XX', 'score': 50, 'disable_domains': [], '_id': '88.205.225.203'}
+2021-05-12 23:38:30 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '185.235.41.85', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 1.16, 'area': '荷兰 Flevoland Dronten', 'score': 50, 'disable_domains': []}
+2021-05-12 23:38:34 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '120.232.150.110', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 2.86, 'area': '中国 广东省 ', 'score': 50, 'disable_domains': [], '_id': '120.232.150.110'}
+2021-05-12 23:38:58 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '128.199.237.213', 'port': '8080', 'protocol': 1, 'nick_type': 0, 'speed': 5.52, 'area': '新加坡 XX XX', 'score': 50, 'disable_domains': [], '_id': '128.199.237.213'}
+2021-05-12 23:39:01 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '188.240.71.213', 'port': '3128', 'protocol': 2, 'nick_type': 2, 'speed': 0.65, 'area': '英国 伦敦 伦敦', 'score': 50, 'disable_domains': [], '_id': '188.240.71.213'}
+2021-05-12 23:39:02 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '34.214.110.234', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 0.99, 'area': '美国 俄勒冈 XX', 'score': 50, 'disable_domains': [], '_id': '34.214.110.234'}
+2021-05-12 23:39:24 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '185.236.202.178', 'port': '3128', 'protocol': 0, 'nick_type': 0, 'speed': 0.62, 'area': '奥地利 Wien XX', 'score': 50, 'disable_domains': [], '_id': '185.236.202.178'}
+2021-05-12 23:39:26 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '34.215.223.68', 'port': '80', 'protocol': 2, 'nick_type': 0, 'speed': 0.41, 'area': '美国 俄勒冈州 波特蘭', 'score': 50, 'disable_domains': [], '_id': '34.215.223.68'}
+2021-05-12 23:39:26 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '31.192.107.162', 'port': '3128', 'protocol': 0, 'nick_type': 0, 'speed': 0.39, 'area': '俄罗斯 莫斯科 莫斯科', 'score': 50, 'disable_domains': [], '_id': '31.192.107.162'}
+2021-05-12 23:39:28 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '91.132.139.180', 'port': '3128', 'protocol': 0, 'nick_type': 0, 'speed': 0.63, 'area': '奥地利 Vienna Vienna', 'score': 50, 'disable_domains': [], '_id': '91.132.139.180'}
+2021-05-12 23:39:42 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '54.165.67.102', 'port': '8080', 'protocol': 0, 'nick_type': 0, 'speed': 8.26, 'area': '美国 弗吉尼亚 阿什本', 'score': 50, 'disable_domains': [], '_id': '54.165.67.102'}
+2021-05-12 23:39:46 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '186.225.117.58', 'port': '80', 'protocol': 2, 'nick_type': 0, 'speed': 1.3, 'area': '巴西 XX XX', 'score': 50, 'disable_domains': []}
+2021-05-12 23:40:00 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '54.254.142.254', 'port': '80', 'protocol': 0, 'nick_type': 2, 'speed': 3.69, 'area': '新加坡 XX XX', 'score': 50, 'disable_domains': []}
+2021-05-12 23:40:05 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '132.248.196.2', 'port': '8080', 'protocol': 2, 'nick_type': 0, 'speed': 2.07, 'area': '墨西哥 米却肯州 莫雷利亚', 'score': 50, 'disable_domains': []}
+2021-05-12 23:40:06 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '120.133.60.92', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 0.59, 'area': '中国 北京 北京', 'score': 50, 'disable_domains': [], '_id': '120.133.60.92'}
+2021-05-12 23:40:07 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '120.133.60.92', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 0.57, 'area': '中国 北京 北京', 'score': 50, 'disable_domains': []}
+2021-05-12 23:40:11 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '132.248.196.2', 'port': '8080', 'protocol': 2, 'nick_type': 0, 'speed': 1.1, 'area': '墨西哥 米却肯州 莫雷利亚', 'score': 50, 'disable_domains': []}
+2021-05-12 23:40:12 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '194.5.212.199', 'port': '3128', 'protocol': 0, 'nick_type': 0, 'speed': 0.53, 'area': '德国 Hesse 法兰克福', 'score': 50, 'disable_domains': [], '_id': '194.5.212.199'}
+2021-05-12 23:40:13 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '67.43.234.114', 'port': '3128', 'protocol': 0, 'nick_type': 0, 'speed': 0.57, 'area': '加拿大 魁北克 蒙特利尔', 'score': 50, 'disable_domains': [], '_id': '67.43.234.114'}
+2021-05-12 23:40:15 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '113.100.209.7', 'port': '3128', 'protocol': 2, 'nick_type': 2, 'speed': 0.35, 'area': '中国 广东省 惠州市', 'score': 50, 'disable_domains': [], '_id': '113.100.209.7'}
+2021-05-12 23:40:40 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '178.254.42.75', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 1.02, 'area': '德国 法兰克福 法兰克福', 'score': 50, 'disable_domains': [], '_id': '178.254.42.75'}
+2021-05-12 23:40:41 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '193.27.14.248', 'port': '3128', 'protocol': 0, 'nick_type': 0, 'speed': 0.53, 'area': '德国 法兰克福 法兰克福', 'score': 50, 'disable_domains': [], '_id': '193.27.14.248'}
+2021-05-12 23:40:43 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '89.45.4.142', 'port': '3128', 'protocol': 0, 'nick_type': 0, 'speed': 1.2, 'area': '美国 加利福尼亚州 洛杉矶', 'score': 50, 'disable_domains': [], '_id': '89.45.4.142'}
+2021-05-12 23:41:46 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '103.42.195.70', 'port': '53281', 'protocol': 0, 'nick_type': 0, 'speed': 9.79, 'area': '亚太地区', 'score': 50, 'disable_domains': [], '_id': '103.42.195.70'}
+2021-05-12 23:45:22 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '70.184.181.203', 'port': '48678', 'protocol': 1, 'nick_type': 0, 'speed': 10.08, 'area': '美国', 'score': 50, 'disable_domains': [], '_id': '70.184.181.203'}
+2021-06-02 00:09:35 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '213.6.66.66', 'port': '48687', 'protocol': 1, 'nick_type': 0, 'speed': 10.84, 'area': '巴勒斯坦', 'score': 50, 'disable_domains': [], '_id': '213.6.66.66'}
+2021-06-02 23:27:28 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '213.6.66.66', 'port': '48687', 'protocol': 1, 'nick_type': 0, 'speed': 13.48, 'area': '巴勒斯坦', 'score': 50, 'disable_domains': []}
+2021-06-02 23:28:18 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '190.112.136.149', 'port': '8085', 'protocol': 1, 'nick_type': 0, 'speed': 5.03, 'area': '哥伦比亚', 'score': 50, 'disable_domains': [], '_id': '190.112.136.149'}
+2021-06-02 23:30:55 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '177.87.168.6', 'port': '53281', 'protocol': 0, 'nick_type': 0, 'speed': 15.71, 'area': '巴西', 'score': 50, 'disable_domains': [], '_id': '177.87.168.6'}
+2021-06-02 23:31:00 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '78.47.16.54', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 4.85, 'area': '德国', 'score': 50, 'disable_domains': []}
+2021-07-05 23:02:55 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '178.216.2.229', 'port': '8080', 'protocol': 0, 'nick_type': 2, 'speed': 4.66, 'area': '乌克兰', 'score': 50, 'disable_domains': [], '_id': '178.216.2.229'}
+2021-07-12 23:21:04 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '45.250.226.53', 'port': '8080', 'protocol': 0, 'nick_type': 2, 'speed': 5.31, 'area': 'IANA', 'score': 50, 'disable_domains': [], '_id': '45.250.226.53'}
+2021-07-12 23:21:15 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '89.204.214.142', 'port': '8080', 'protocol': 0, 'nick_type': 2, 'speed': 5.7, 'area': '爱尔兰', 'score': 50, 'disable_domains': [], '_id': '89.204.214.142'}
+2021-08-10 23:56:19 run_spiders.py [line:96] ERROR: HTTPConnectionPool(host='www.66ip.cn', port=80): Max retries exceeded with url: /1.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000268BC827250>: Failed to establish a new connection: [Errno 10060] [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\connection.py", line 96, in create_connection
+    raise err
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\connection.py", line 86, in create_connection
+    sock.connect(sa)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\_socketcommon.py", line 607, in connect
+    raise _SocketError(err, strerror(err))
+TimeoutError: [Errno 10060] [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1257, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1303, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1252, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1012, in _send_output
+    self.send(msg)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 952, in send
+    self.connect()
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x00000268BC827250>: Failed to establish a new connection: [Errno 10060] [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='www.66ip.cn', port=80): Max retries exceeded with url: /1.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000268BC827250>: Failed to establish a new connection: [Errno 10060] [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\run_spiders.py", line 86, in _execute_one_spider_task
+    for proxy in spider.get_proxies():
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\base_spider.py", line 76, in get_proxies
+    page = self.get_page_from_url(url)
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\base_spider.py", line 50, in get_page_from_url
+    response = requests.get(url,headers=get_request_headers())
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='www.66ip.cn', port=80): Max retries exceeded with url: /1.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000268BC827250>: Failed to establish a new connection: [Errno 10060] [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))
+2021-08-10 23:56:48 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '121.232.148.90', 'port': '3256', 'protocol': 0, 'nick_type': 0, 'speed': 4.0, 'area': '中国 江苏 镇江 电信', 'score': 50, 'disable_domains': [], '_id': '121.232.148.90'}
+2021-08-10 23:57:37 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '47.98.179.39', 'port': '8080', 'protocol': 0, 'nick_type': 0, 'speed': 0.57, 'area': '中国 浙江 杭州 联通', 'score': 50, 'disable_domains': [], '_id': '47.98.179.39'}
+2021-08-10 23:57:54 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '101.200.127.149', 'port': '3129', 'protocol': 0, 'nick_type': 0, 'speed': 0.32, 'area': '北京市北京市  阿里云', 'score': 50, 'disable_domains': [], '_id': '101.200.127.149'}
+2021-08-11 00:00:30 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '110.43.136.72', 'port': '3128', 'protocol': 0, 'nick_type': 0, 'speed': 5.45, 'area': '中国   ', 'score': 50, 'disable_domains': [], '_id': '110.43.136.72'}
+2021-08-11 00:01:20 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '47.98.179.39', 'port': '8080', 'protocol': 0, 'nick_type': 0, 'speed': 3.61, 'area': '中国 浙江 杭州 联通', 'score': 50, 'disable_domains': []}
+2021-08-11 00:03:43 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '111.72.25.50', 'port': '3256', 'protocol': 0, 'nick_type': 0, 'speed': 0.55, 'area': '中国 江西 抚州 电信', 'score': 50, 'disable_domains': [], '_id': '111.72.25.50'}
+2021-08-11 00:04:21 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '101.200.127.149', 'port': '3129', 'protocol': 0, 'nick_type': 0, 'speed': 0.31, 'area': '北京市北京市  阿里云', 'score': 50, 'disable_domains': []}
+2021-08-11 00:05:30 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '123.171.5.133', 'port': '8118', 'protocol': 0, 'nick_type': 0, 'speed': 3.6, 'area': '山东省聊城市  电信', 'score': 50, 'disable_domains': [], '_id': '123.171.5.133'}
+2021-08-11 00:05:33 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '101.200.127.149', 'port': '3129', 'protocol': 0, 'nick_type': 0, 'speed': 0.31, 'area': '北京市北京市  阿里云', 'score': 50, 'disable_domains': []}
+2021-08-11 00:07:19 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '27.208.227.213', 'port': '8060', 'protocol': 0, 'nick_type': 0, 'speed': 0.64, 'area': '山东省威海市  联通', 'score': 50, 'disable_domains': [], '_id': '27.208.227.213'}
+2021-08-11 00:09:13 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '101.200.127.149', 'port': '3129', 'protocol': 0, 'nick_type': 0, 'speed': 0.4, 'area': '北京市北京市  阿里云', 'score': 50, 'disable_domains': []}
+2021-08-11 00:09:49 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '122.226.57.70', 'port': '8888', 'protocol': 0, 'nick_type': 0, 'speed': 0.49, 'area': '浙江省金华市  电信', 'score': 50, 'disable_domains': [], '_id': '122.226.57.70'}
+2021-08-11 00:22:20 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '124.70.46.14', 'port': '3128', 'protocol': 0, 'nick_type': 2, 'speed': 0.34, 'area': '1秒', 'score': 50, 'disable_domains': [], '_id': '124.70.46.14'}
+2021-08-11 07:31:36 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '110.43.136.72', 'port': '3128', 'protocol': 0, 'nick_type': 0, 'speed': 0.56, 'area': '中国   ', 'score': 50, 'disable_domains': []}
+2021-08-11 07:31:54 run_spiders.py [line:96] ERROR: HTTPConnectionPool(host='www.66ip.cn', port=80): Max retries exceeded with url: /1.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BEC2CA8190>: Failed to establish a new connection: [Errno 10060] [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\connection.py", line 96, in create_connection
+    raise err
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\connection.py", line 86, in create_connection
+    sock.connect(sa)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\_socketcommon.py", line 607, in connect
+    raise _SocketError(err, strerror(err))
+TimeoutError: [Errno 10060] [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1257, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1303, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1252, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1012, in _send_output
+    self.send(msg)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 952, in send
+    self.connect()
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x000001BEC2CA8190>: Failed to establish a new connection: [Errno 10060] [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='www.66ip.cn', port=80): Max retries exceeded with url: /1.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BEC2CA8190>: Failed to establish a new connection: [Errno 10060] [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\run_spiders.py", line 86, in _execute_one_spider_task
+    for proxy in spider.get_proxies():
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\base_spider.py", line 76, in get_proxies
+    page = self.get_page_from_url(url)
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\base_spider.py", line 50, in get_page_from_url
+    response = requests.get(url,headers=get_request_headers())
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='www.66ip.cn', port=80): Max retries exceeded with url: /1.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BEC2CA8190>: Failed to establish a new connection: [Errno 10060] [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))
+2021-08-11 07:33:20 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '175.7.199.185', 'port': '3256', 'protocol': 0, 'nick_type': 0, 'speed': 0.6, 'area': '中国 湖南 张家界 电信', 'score': 50, 'disable_domains': [], '_id': '175.7.199.185'}
+2021-08-11 07:34:04 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '47.98.179.39', 'port': '8080', 'protocol': 0, 'nick_type': 0, 'speed': 0.78, 'area': '中国 浙江 杭州 联通', 'score': 50, 'disable_domains': []}
+2021-08-11 07:34:24 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '101.200.127.149', 'port': '3129', 'protocol': 0, 'nick_type': 0, 'speed': 0.32, 'area': '北京市北京市  阿里云', 'score': 50, 'disable_domains': []}
+2021-08-11 07:34:39 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '122.226.57.70', 'port': '8888', 'protocol': 0, 'nick_type': 0, 'speed': 0.45, 'area': '浙江省金华市  电信', 'score': 50, 'disable_domains': []}
+2021-08-11 07:36:32 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '110.43.136.72', 'port': '3128', 'protocol': 0, 'nick_type': 0, 'speed': 4.38, 'area': '中国   ', 'score': 50, 'disable_domains': []}
+2021-08-11 07:37:00 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '110.43.136.72', 'port': '3128', 'protocol': 0, 'nick_type': 0, 'speed': 3.43, 'area': '中国   ', 'score': 50, 'disable_domains': []}
+2021-08-11 07:37:36 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '106.45.105.171', 'port': '3256', 'protocol': 0, 'nick_type': 0, 'speed': 0.67, 'area': '中国 宁夏 中卫 电信', 'score': 50, 'disable_domains': [], '_id': '106.45.105.171'}
+2021-08-11 07:37:40 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '47.98.179.39', 'port': '8080', 'protocol': 0, 'nick_type': 0, 'speed': 0.68, 'area': '中国 浙江 杭州 联通', 'score': 50, 'disable_domains': []}
+2021-08-11 07:37:59 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '47.98.179.39', 'port': '8080', 'protocol': 0, 'nick_type': 0, 'speed': 3.69, 'area': '中国 浙江 杭州 联通', 'score': 50, 'disable_domains': []}
+2021-08-11 07:39:56 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '120.199.210.18', 'port': '8383', 'protocol': 0, 'nick_type': 0, 'speed': 0.61, 'area': '中国 浙江 绍兴 移动', 'score': 50, 'disable_domains': [], '_id': '120.199.210.18'}
+2021-08-11 07:40:56 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '101.200.127.149', 'port': '3129', 'protocol': 0, 'nick_type': 0, 'speed': 0.33, 'area': '北京市北京市  阿里云', 'score': 50, 'disable_domains': []}
+2021-08-11 07:41:02 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '110.43.136.72', 'port': '3128', 'protocol': 0, 'nick_type': 0, 'speed': 0.77, 'area': '中国   ', 'score': 50, 'disable_domains': []}
+2021-08-11 07:41:45 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '123.171.5.133', 'port': '8118', 'protocol': 0, 'nick_type': 0, 'speed': 0.56, 'area': '山东省聊城市  电信', 'score': 50, 'disable_domains': []}
+2021-08-11 07:41:46 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '101.200.127.149', 'port': '3129', 'protocol': 0, 'nick_type': 0, 'speed': 0.3, 'area': '北京市北京市  阿里云', 'score': 50, 'disable_domains': []}
+2021-08-11 07:42:47 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '47.104.15.198', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 0.59, 'area': '山东省青岛市  阿里云', 'score': 50, 'disable_domains': [], '_id': '47.104.15.198'}
+2021-08-11 07:43:24 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '110.43.136.72', 'port': '3128', 'protocol': 0, 'nick_type': 0, 'speed': 0.49, 'area': '中国   ', 'score': 50, 'disable_domains': []}
+2021-08-11 07:45:23 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '219.159.38.198', 'port': '56210', 'protocol': 0, 'nick_type': 0, 'speed': 6.85, 'area': '内蒙古自治区赤峰市  联通', 'score': 50, 'disable_domains': [], '_id': '219.159.38.198'}
+2021-08-11 07:45:33 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '101.200.127.149', 'port': '3129', 'protocol': 0, 'nick_type': 0, 'speed': 0.33, 'area': '北京市北京市  阿里云', 'score': 50, 'disable_domains': []}
+2021-08-11 07:48:36 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '103.147.43.255', 'port': '8080', 'protocol': 0, 'nick_type': 2, 'speed': 1.73, 'area': '2秒', 'score': 50, 'disable_domains': [], '_id': '103.147.43.255'}
+2021-08-11 07:58:17 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '124.70.46.14', 'port': '3128', 'protocol': 0, 'nick_type': 2, 'speed': 0.31, 'area': '1秒', 'score': 50, 'disable_domains': []}
+2021-08-11 07:59:38 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '119.250.22.204', 'port': '9000', 'protocol': 0, 'nick_type': 2, 'speed': 7.45, 'area': '9秒', 'score': 50, 'disable_domains': [], '_id': '119.250.22.204'}
+2021-08-11 23:17:38 run_spiders.py [line:96] ERROR: HTTPConnectionPool(host='www.ip3366.net', port=80): Max retries exceeded with url: /free/?stype=1&page=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BEC2D16040>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\_socketcommon.py", line 247, in getaddrinfo
+    addrlist = get_hub().resolver.getaddrinfo(host, port, family, type, proto, flags)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\resolver\thread.py", line 63, in getaddrinfo
+    return self.pool.apply(_socket.getaddrinfo, args, kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\pool.py", line 161, in apply
+    return self.spawn(func, *args, **kwds).get()
+  File "src\\gevent\\event.py", line 329, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 359, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 347, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 327, in gevent._gevent_cevent.AsyncResult._raise_exception
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\_compat.py", line 65, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\threadpool.py", line 167, in __run_task
+    thread_result.set(func(*args, **kwargs))
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1257, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1303, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1252, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1012, in _send_output
+    self.send(msg)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 952, in send
+    self.connect()
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x000001BEC2D16040>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='www.ip3366.net', port=80): Max retries exceeded with url: /free/?stype=1&page=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BEC2D16040>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\run_spiders.py", line 86, in _execute_one_spider_task
+    for proxy in spider.get_proxies():
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\base_spider.py", line 76, in get_proxies
+    page = self.get_page_from_url(url)
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\base_spider.py", line 50, in get_page_from_url
+    response = requests.get(url,headers=get_request_headers())
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='www.ip3366.net', port=80): Max retries exceeded with url: /free/?stype=1&page=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BEC2D16040>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-08-11 23:17:39 run_spiders.py [line:96] ERROR: HTTPSConnectionPool(host='list.proxylistplus.com', port=443): Max retries exceeded with url: /Fresh-HTTP-Proxy-List-1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001BEC2E2EDF0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\_socketcommon.py", line 247, in getaddrinfo
+    addrlist = get_hub().resolver.getaddrinfo(host, port, family, type, proto, flags)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\resolver\thread.py", line 63, in getaddrinfo
+    return self.pool.apply(_socket.getaddrinfo, args, kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\pool.py", line 161, in apply
+    return self.spawn(func, *args, **kwds).get()
+  File "src\\gevent\\event.py", line 329, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 359, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 347, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 327, in gevent._gevent_cevent.AsyncResult._raise_exception
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\_compat.py", line 65, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\threadpool.py", line 167, in __run_task
+    thread_result.set(func(*args, **kwargs))
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 1010, in _validate_conn
+    conn.connect()
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 353, in connect
+    conn = self._new_conn()
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x000001BEC2E2EDF0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='list.proxylistplus.com', port=443): Max retries exceeded with url: /Fresh-HTTP-Proxy-List-1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001BEC2E2EDF0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\run_spiders.py", line 86, in _execute_one_spider_task
+    for proxy in spider.get_proxies():
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\base_spider.py", line 76, in get_proxies
+    page = self.get_page_from_url(url)
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\base_spider.py", line 50, in get_page_from_url
+    response = requests.get(url,headers=get_request_headers())
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='list.proxylistplus.com', port=443): Max retries exceeded with url: /Fresh-HTTP-Proxy-List-1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001BEC2E2EDF0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-08-11 23:17:39 run_spiders.py [line:96] ERROR: HTTPConnectionPool(host='www.66ip.cn', port=80): Max retries exceeded with url: /1.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BEC2E2E250>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\_socketcommon.py", line 247, in getaddrinfo
+    addrlist = get_hub().resolver.getaddrinfo(host, port, family, type, proto, flags)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\resolver\thread.py", line 63, in getaddrinfo
+    return self.pool.apply(_socket.getaddrinfo, args, kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\pool.py", line 161, in apply
+    return self.spawn(func, *args, **kwds).get()
+  File "src\\gevent\\event.py", line 329, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 359, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 347, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 327, in gevent._gevent_cevent.AsyncResult._raise_exception
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\_compat.py", line 65, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\threadpool.py", line 167, in __run_task
+    thread_result.set(func(*args, **kwargs))
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1257, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1303, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1252, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1012, in _send_output
+    self.send(msg)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 952, in send
+    self.connect()
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x000001BEC2E2E250>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='www.66ip.cn', port=80): Max retries exceeded with url: /1.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BEC2E2E250>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\run_spiders.py", line 86, in _execute_one_spider_task
+    for proxy in spider.get_proxies():
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\base_spider.py", line 76, in get_proxies
+    page = self.get_page_from_url(url)
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\base_spider.py", line 50, in get_page_from_url
+    response = requests.get(url,headers=get_request_headers())
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='www.66ip.cn', port=80): Max retries exceeded with url: /1.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BEC2E2E250>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-08-11 23:17:41 run_spiders.py [line:96] ERROR: HTTPSConnectionPool(host='www.kuaidaili.com', port=443): Max retries exceeded with url: /free/inha/1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001BEC2CA8310>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\_socketcommon.py", line 247, in getaddrinfo
+    addrlist = get_hub().resolver.getaddrinfo(host, port, family, type, proto, flags)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\resolver\thread.py", line 63, in getaddrinfo
+    return self.pool.apply(_socket.getaddrinfo, args, kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\pool.py", line 161, in apply
+    return self.spawn(func, *args, **kwds).get()
+  File "src\\gevent\\event.py", line 329, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 359, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 347, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 327, in gevent._gevent_cevent.AsyncResult._raise_exception
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\_compat.py", line 65, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\threadpool.py", line 167, in __run_task
+    thread_result.set(func(*args, **kwargs))
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 1010, in _validate_conn
+    conn.connect()
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 353, in connect
+    conn = self._new_conn()
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x000001BEC2CA8310>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='www.kuaidaili.com', port=443): Max retries exceeded with url: /free/inha/1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001BEC2CA8310>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\run_spiders.py", line 86, in _execute_one_spider_task
+    for proxy in spider.get_proxies():
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\base_spider.py", line 76, in get_proxies
+    page = self.get_page_from_url(url)
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\proxy_spiders.py", line 73, in get_page_from_url
+    return super().get_page_from_url(url)
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\base_spider.py", line 50, in get_page_from_url
+    response = requests.get(url,headers=get_request_headers())
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.kuaidaili.com', port=443): Max retries exceeded with url: /free/inha/1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001BEC2CA8310>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-08-11 23:20:07 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '117.94.222.52', 'port': '3256', 'protocol': 0, 'nick_type': 0, 'speed': 0.63, 'area': '中国 江苏 泰州 电信', 'score': 50, 'disable_domains': [], '_id': '117.94.222.52'}
+2021-08-11 23:23:04 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '47.98.179.39', 'port': '8080', 'protocol': 0, 'nick_type': 0, 'speed': 3.68, 'area': '中国 浙江 杭州 联通', 'score': 50, 'disable_domains': []}
+2021-08-11 23:23:21 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '101.200.127.149', 'port': '3129', 'protocol': 0, 'nick_type': 0, 'speed': 0.29, 'area': '北京市北京市  阿里云', 'score': 50, 'disable_domains': []}
+2021-08-11 23:23:42 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '223.240.208.191', 'port': '1133', 'protocol': 0, 'nick_type': 0, 'speed': 0.53, 'area': '中国 安徽 合肥 电信', 'score': 50, 'disable_domains': [], '_id': '223.240.208.191'}
+2021-08-11 23:29:59 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '101.200.127.149', 'port': '3129', 'protocol': 0, 'nick_type': 0, 'speed': 0.3, 'area': '北京市北京市  阿里云', 'score': 50, 'disable_domains': []}
+2021-08-11 23:30:58 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '101.200.127.149', 'port': '3129', 'protocol': 0, 'nick_type': 0, 'speed': 0.3, 'area': '北京市北京市  阿里云', 'score': 50, 'disable_domains': []}
+2021-08-11 23:39:58 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '118.117.188.230', 'port': '3256', 'protocol': 0, 'nick_type': 0, 'speed': 0.72, 'area': '7秒', 'score': 50, 'disable_domains': [], '_id': '118.117.188.230'}
+2021-08-11 23:45:24 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '124.70.46.14', 'port': '3128', 'protocol': 0, 'nick_type': 2, 'speed': 0.62, 'area': '1秒', 'score': 50, 'disable_domains': []}
+2021-08-11 23:54:40 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '114.231.8.150', 'port': '8888', 'protocol': 0, 'nick_type': 0, 'speed': 2.38, 'area': '中国 江苏 南通 电信', 'score': 50, 'disable_domains': [], '_id': '114.231.8.150'}
+2021-08-11 23:55:05 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '182.84.144.197', 'port': '3256', 'protocol': 0, 'nick_type': 0, 'speed': 0.78, 'area': '中国 江西 赣州 电信', 'score': 50, 'disable_domains': [], '_id': '182.84.144.197'}
+2021-08-11 23:56:29 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '117.94.222.52', 'port': '3256', 'protocol': 0, 'nick_type': 0, 'speed': 0.48, 'area': '中国 江苏 泰州 电信', 'score': 50, 'disable_domains': []}
+2021-08-11 23:59:06 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '47.98.179.39', 'port': '8080', 'protocol': 0, 'nick_type': 0, 'speed': 0.59, 'area': '中国 浙江 杭州 联通', 'score': 50, 'disable_domains': []}
+2021-08-11 23:59:18 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '101.200.127.149', 'port': '3129', 'protocol': 0, 'nick_type': 0, 'speed': 0.33, 'area': '北京市北京市  阿里云', 'score': 50, 'disable_domains': []}
+2021-08-12 00:02:26 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '47.98.179.39', 'port': '8080', 'protocol': 0, 'nick_type': 0, 'speed': 1.54, 'area': '中国 浙江 杭州 联通', 'score': 50, 'disable_domains': []}
+2021-08-12 00:05:59 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '101.200.127.149', 'port': '3129', 'protocol': 0, 'nick_type': 0, 'speed': 0.61, 'area': '北京市北京市  阿里云', 'score': 50, 'disable_domains': []}
+2021-08-12 00:07:06 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '101.200.127.149', 'port': '3129', 'protocol': 0, 'nick_type': 0, 'speed': 0.33, 'area': '北京市北京市  阿里云', 'score': 50, 'disable_domains': []}
+2021-08-12 00:09:34 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '59.55.166.91', 'port': '3256', 'protocol': 0, 'nick_type': 0, 'speed': 0.67, 'area': '中国 江西 吉安 电信', 'score': 50, 'disable_domains': [], '_id': '59.55.166.91'}
+2021-08-12 00:22:27 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '138.36.151.12', 'port': '8090', 'protocol': 0, 'nick_type': 2, 'speed': 3.1, 'area': '2秒', 'score': 50, 'disable_domains': [], '_id': '138.36.151.12'}
+2021-08-12 07:37:09 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '45.236.171.25', 'port': '999', 'protocol': 0, 'nick_type': 2, 'speed': 2.23, 'area': 'IANA', 'score': 50, 'disable_domains': [], '_id': '45.236.171.25'}
+2021-08-12 07:37:12 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '183.21.81.211', 'port': '40539', 'protocol': 0, 'nick_type': 0, 'speed': 0.33, 'area': '广东省茂名市  电信', 'score': 50, 'disable_domains': [], '_id': '183.21.81.211'}
+2021-08-12 07:38:02 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '93.115.79.217', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 2.34, 'area': '罗马尼亚', 'score': 50, 'disable_domains': [], '_id': '93.115.79.217'}
+2021-08-12 07:39:27 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '122.226.57.70', 'port': '8888', 'protocol': 0, 'nick_type': 0, 'speed': 0.47, 'area': '浙江省金华市  电信', 'score': 50, 'disable_domains': []}
+2021-08-12 07:39:46 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '47.104.15.198', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 4.77, 'area': '山东省青岛市  阿里云', 'score': 50, 'disable_domains': []}
+2021-08-12 07:41:58 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '111.72.25.142', 'port': '3256', 'protocol': 0, 'nick_type': 0, 'speed': 0.59, 'area': '中国 江西 抚州 电信', 'score': 50, 'disable_domains': [], '_id': '111.72.25.142'}
+2021-08-12 07:42:39 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '47.98.179.39', 'port': '8080', 'protocol': 0, 'nick_type': 0, 'speed': 0.52, 'area': '中国 浙江 杭州 联通', 'score': 50, 'disable_domains': []}
+2021-08-12 07:42:45 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '101.200.127.149', 'port': '3129', 'protocol': 0, 'nick_type': 0, 'speed': 0.3, 'area': '北京市北京市  阿里云', 'score': 50, 'disable_domains': []}
+2021-08-12 07:43:06 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '122.226.57.70', 'port': '8888', 'protocol': 0, 'nick_type': 0, 'speed': 0.48, 'area': '浙江省金华市  电信', 'score': 50, 'disable_domains': []}
+2021-08-12 07:46:04 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '47.98.179.39', 'port': '8080', 'protocol': 0, 'nick_type': 0, 'speed': 0.58, 'area': '中国 浙江 杭州 联通', 'score': 50, 'disable_domains': []}
+2021-08-12 07:46:26 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '47.98.179.39', 'port': '8080', 'protocol': 0, 'nick_type': 0, 'speed': 0.54, 'area': '中国 浙江 杭州 联通', 'score': 50, 'disable_domains': []}
+2021-08-12 07:48:30 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '117.94.222.247', 'port': '3256', 'protocol': 0, 'nick_type': 0, 'speed': 0.46, 'area': '中国 江苏 泰州 电信', 'score': 50, 'disable_domains': [], '_id': '117.94.222.247'}
+2021-08-12 07:49:03 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '27.208.227.213', 'port': '8060', 'protocol': 0, 'nick_type': 0, 'speed': 1.57, 'area': '山东省威海市  联通', 'score': 50, 'disable_domains': []}
+2021-08-12 07:49:04 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '117.65.1.195', 'port': '3256', 'protocol': 0, 'nick_type': 0, 'speed': 0.47, 'area': '中国 安徽 蚌埠 电信', 'score': 50, 'disable_domains': [], '_id': '117.65.1.195'}
+2021-08-12 07:49:14 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '101.200.127.149', 'port': '3129', 'protocol': 0, 'nick_type': 0, 'speed': 0.3, 'area': '北京市北京市  阿里云', 'score': 50, 'disable_domains': []}
+2021-08-12 07:50:15 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '101.200.127.149', 'port': '3129', 'protocol': 0, 'nick_type': 0, 'speed': 0.32, 'area': '北京市北京市  阿里云', 'score': 50, 'disable_domains': []}
+2021-08-12 07:51:55 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '27.208.227.213', 'port': '8060', 'protocol': 0, 'nick_type': 0, 'speed': 0.55, 'area': '山东省威海市  联通', 'score': 50, 'disable_domains': []}
+2021-08-12 07:52:27 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '123.171.42.231', 'port': '3256', 'protocol': 0, 'nick_type': 0, 'speed': 2.61, 'area': '7秒', 'score': 50, 'disable_domains': [], '_id': '123.171.42.231'}
+2021-08-12 07:54:12 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '223.241.77.20', 'port': '3256', 'protocol': 0, 'nick_type': 0, 'speed': 0.69, 'area': '9秒', 'score': 50, 'disable_domains': [], '_id': '223.241.77.20'}
+2021-08-12 08:04:22 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '124.70.46.14', 'port': '3128', 'protocol': 0, 'nick_type': 2, 'speed': 0.41, 'area': '1秒', 'score': 50, 'disable_domains': []}
+2021-08-12 08:04:33 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '182.84.144.196', 'port': '3256', 'protocol': 0, 'nick_type': 0, 'speed': 0.58, 'area': '3秒', 'score': 50, 'disable_domains': [], '_id': '182.84.144.196'}
+2021-08-12 23:04:01 run_spiders.py [line:96] ERROR: HTTPSConnectionPool(host='list.proxylistplus.com', port=443): Max retries exceeded with url: /Fresh-HTTP-Proxy-List-1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001A1EBF4C1C0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\_socketcommon.py", line 247, in getaddrinfo
+    addrlist = get_hub().resolver.getaddrinfo(host, port, family, type, proto, flags)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\resolver\thread.py", line 63, in getaddrinfo
+    return self.pool.apply(_socket.getaddrinfo, args, kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\pool.py", line 161, in apply
+    return self.spawn(func, *args, **kwds).get()
+  File "src\\gevent\\event.py", line 329, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 359, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 347, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 327, in gevent._gevent_cevent.AsyncResult._raise_exception
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\_compat.py", line 65, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\threadpool.py", line 167, in __run_task
+    thread_result.set(func(*args, **kwargs))
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 1010, in _validate_conn
+    conn.connect()
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 353, in connect
+    conn = self._new_conn()
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x000001A1EBF4C1C0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='list.proxylistplus.com', port=443): Max retries exceeded with url: /Fresh-HTTP-Proxy-List-1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001A1EBF4C1C0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\run_spiders.py", line 86, in _execute_one_spider_task
+    for proxy in spider.get_proxies():
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\base_spider.py", line 76, in get_proxies
+    page = self.get_page_from_url(url)
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\base_spider.py", line 50, in get_page_from_url
+    response = requests.get(url,headers=get_request_headers())
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='list.proxylistplus.com', port=443): Max retries exceeded with url: /Fresh-HTTP-Proxy-List-1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001A1EBF4C1C0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-08-12 23:04:01 run_spiders.py [line:96] ERROR: HTTPConnectionPool(host='www.66ip.cn', port=80): Max retries exceeded with url: /1.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A1EBFA3BB0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\_socketcommon.py", line 247, in getaddrinfo
+    addrlist = get_hub().resolver.getaddrinfo(host, port, family, type, proto, flags)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\resolver\thread.py", line 63, in getaddrinfo
+    return self.pool.apply(_socket.getaddrinfo, args, kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\pool.py", line 161, in apply
+    return self.spawn(func, *args, **kwds).get()
+  File "src\\gevent\\event.py", line 329, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 359, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 347, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 327, in gevent._gevent_cevent.AsyncResult._raise_exception
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\_compat.py", line 65, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\threadpool.py", line 167, in __run_task
+    thread_result.set(func(*args, **kwargs))
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1257, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1303, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1252, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1012, in _send_output
+    self.send(msg)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 952, in send
+    self.connect()
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x000001A1EBFA3BB0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='www.66ip.cn', port=80): Max retries exceeded with url: /1.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A1EBFA3BB0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\run_spiders.py", line 86, in _execute_one_spider_task
+    for proxy in spider.get_proxies():
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\base_spider.py", line 76, in get_proxies
+    page = self.get_page_from_url(url)
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\base_spider.py", line 50, in get_page_from_url
+    response = requests.get(url,headers=get_request_headers())
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='www.66ip.cn', port=80): Max retries exceeded with url: /1.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A1EBFA3BB0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-08-12 23:04:01 run_spiders.py [line:96] ERROR: HTTPConnectionPool(host='www.ip3366.net', port=80): Max retries exceeded with url: /free/?stype=1&page=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A1EBFA3C40>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\_socketcommon.py", line 247, in getaddrinfo
+    addrlist = get_hub().resolver.getaddrinfo(host, port, family, type, proto, flags)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\resolver\thread.py", line 63, in getaddrinfo
+    return self.pool.apply(_socket.getaddrinfo, args, kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\pool.py", line 161, in apply
+    return self.spawn(func, *args, **kwds).get()
+  File "src\\gevent\\event.py", line 329, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 359, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 347, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 327, in gevent._gevent_cevent.AsyncResult._raise_exception
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\_compat.py", line 65, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\threadpool.py", line 167, in __run_task
+    thread_result.set(func(*args, **kwargs))
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1257, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1303, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1252, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1012, in _send_output
+    self.send(msg)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 952, in send
+    self.connect()
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x000001A1EBFA3C40>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='www.ip3366.net', port=80): Max retries exceeded with url: /free/?stype=1&page=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A1EBFA3C40>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\run_spiders.py", line 86, in _execute_one_spider_task
+    for proxy in spider.get_proxies():
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\base_spider.py", line 76, in get_proxies
+    page = self.get_page_from_url(url)
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\base_spider.py", line 50, in get_page_from_url
+    response = requests.get(url,headers=get_request_headers())
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='www.ip3366.net', port=80): Max retries exceeded with url: /free/?stype=1&page=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A1EBFA3C40>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-08-12 23:04:03 run_spiders.py [line:96] ERROR: HTTPSConnectionPool(host='www.kuaidaili.com', port=443): Max retries exceeded with url: /free/inha/1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001A1EA99DD60>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\_socketcommon.py", line 247, in getaddrinfo
+    addrlist = get_hub().resolver.getaddrinfo(host, port, family, type, proto, flags)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\resolver\thread.py", line 63, in getaddrinfo
+    return self.pool.apply(_socket.getaddrinfo, args, kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\pool.py", line 161, in apply
+    return self.spawn(func, *args, **kwds).get()
+  File "src\\gevent\\event.py", line 329, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 359, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 347, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 327, in gevent._gevent_cevent.AsyncResult._raise_exception
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\_compat.py", line 65, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\threadpool.py", line 167, in __run_task
+    thread_result.set(func(*args, **kwargs))
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 1010, in _validate_conn
+    conn.connect()
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 353, in connect
+    conn = self._new_conn()
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x000001A1EA99DD60>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='www.kuaidaili.com', port=443): Max retries exceeded with url: /free/inha/1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001A1EA99DD60>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\run_spiders.py", line 86, in _execute_one_spider_task
+    for proxy in spider.get_proxies():
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\base_spider.py", line 76, in get_proxies
+    page = self.get_page_from_url(url)
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\proxy_spiders.py", line 73, in get_page_from_url
+    return super().get_page_from_url(url)
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\base_spider.py", line 50, in get_page_from_url
+    response = requests.get(url,headers=get_request_headers())
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.kuaidaili.com', port=443): Max retries exceeded with url: /free/inha/1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001A1EA99DD60>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-08-12 23:20:15 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '101.200.127.149', 'port': '3129', 'protocol': 0, 'nick_type': 0, 'speed': 1.92, 'area': '北京市北京市  阿里云', 'score': 50, 'disable_domains': []}
+2021-08-12 23:21:14 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '93.115.79.217', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 0.86, 'area': '罗马尼亚', 'score': 50, 'disable_domains': []}
+2021-08-12 23:24:23 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '122.226.57.70', 'port': '8888', 'protocol': 0, 'nick_type': 0, 'speed': 0.47, 'area': '浙江省金华市  电信', 'score': 50, 'disable_domains': []}
+2021-08-12 23:40:16 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '45.167.89.68', 'port': '999', 'protocol': 0, 'nick_type': 2, 'speed': 5.71, 'area': '美国', 'score': 50, 'disable_domains': [], '_id': '45.167.89.68'}
+2021-08-12 23:41:47 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '47.98.179.39', 'port': '8080', 'protocol': 0, 'nick_type': 0, 'speed': 3.55, 'area': '中国 浙江 杭州 联通', 'score': 50, 'disable_domains': []}
+2021-08-12 23:42:03 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '93.115.79.217', 'port': '80', 'protocol': 0, 'nick_type': 0, 'speed': 1.29, 'area': '罗马尼亚', 'score': 50, 'disable_domains': []}
+2021-08-12 23:42:10 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '106.45.104.143', 'port': '3256', 'protocol': 0, 'nick_type': 0, 'speed': 1.06, 'area': '中国 宁夏 中卫 电信', 'score': 50, 'disable_domains': [], '_id': '106.45.104.143'}
+2021-08-12 23:42:42 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '36.37.81.135', 'port': '8080', 'protocol': 0, 'nick_type': 2, 'speed': 5.48, 'area': '印度尼西亚', 'score': 50, 'disable_domains': [], '_id': '36.37.81.135'}
+2021-08-12 23:46:33 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '114.98.114.2', 'port': '3256', 'protocol': 0, 'nick_type': 0, 'speed': 1.51, 'area': '中国 安徽 滁州 电信', 'score': 50, 'disable_domains': [], '_id': '114.98.114.2'}
+2021-08-12 23:48:25 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '101.200.127.149', 'port': '3129', 'protocol': 0, 'nick_type': 0, 'speed': 0.71, 'area': '北京市北京市  阿里云', 'score': 50, 'disable_domains': []}
+2021-08-12 23:51:50 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '47.98.179.39', 'port': '8080', 'protocol': 0, 'nick_type': 0, 'speed': 0.5, 'area': '中国 浙江 杭州 联通', 'score': 50, 'disable_domains': []}
+2021-08-12 23:52:23 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '47.98.179.39', 'port': '8080', 'protocol': 0, 'nick_type': 0, 'speed': 0.63, 'area': '中国 浙江 杭州 联通', 'score': 50, 'disable_domains': []}
+2021-08-12 23:55:34 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '223.241.77.20', 'port': '3256', 'protocol': 0, 'nick_type': 0, 'speed': 3.64, 'area': '9秒', 'score': 50, 'disable_domains': []}
+2021-08-12 23:58:47 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '138.36.151.11', 'port': '8090', 'protocol': 0, 'nick_type': 2, 'speed': 3.36, 'area': '1秒', 'score': 50, 'disable_domains': [], '_id': '138.36.151.11'}
+2021-08-13 00:05:52 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '124.70.46.14', 'port': '3128', 'protocol': 0, 'nick_type': 2, 'speed': 0.57, 'area': '1秒', 'score': 50, 'disable_domains': []}
+2021-08-13 00:38:21 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '45.167.89.68', 'port': '999', 'protocol': 0, 'nick_type': 2, 'speed': 4.79, 'area': '美国', 'score': 50, 'disable_domains': []}
+2021-08-13 00:38:34 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '36.66.124.193', 'port': '3128', 'protocol': 0, 'nick_type': 2, 'speed': 2.21, 'area': '印度尼西亚', 'score': 50, 'disable_domains': [], '_id': '36.66.124.193'}
+2021-08-13 00:38:58 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '101.200.127.149', 'port': '3129', 'protocol': 0, 'nick_type': 0, 'speed': 1.57, 'area': '北京市北京市  阿里云', 'score': 50, 'disable_domains': []}
+2021-08-13 00:39:38 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '47.98.179.39', 'port': '8080', 'protocol': 0, 'nick_type': 0, 'speed': 0.87, 'area': '中国 浙江 杭州 联通', 'score': 50, 'disable_domains': []}
+2021-08-13 00:39:57 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '45.115.175.112', 'port': '57919', 'protocol': 0, 'nick_type': 0, 'speed': 7.46, 'area': 'IANA', 'score': 50, 'disable_domains': [], '_id': '45.115.175.112'}
+2021-08-13 00:44:15 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '114.98.114.2', 'port': '3256', 'protocol': 0, 'nick_type': 0, 'speed': 0.78, 'area': '中国 安徽 滁州 电信', 'score': 50, 'disable_domains': []}
+2021-08-13 00:45:47 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '47.98.179.39', 'port': '8080', 'protocol': 0, 'nick_type': 0, 'speed': 1.52, 'area': '中国 浙江 杭州 联通', 'score': 50, 'disable_domains': []}
+2021-08-13 00:46:08 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '101.200.127.149', 'port': '3129', 'protocol': 0, 'nick_type': 0, 'speed': 0.56, 'area': '北京市北京市  阿里云', 'score': 50, 'disable_domains': []}
+2021-08-13 00:46:29 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '122.226.57.70', 'port': '8888', 'protocol': 0, 'nick_type': 0, 'speed': 0.54, 'area': '浙江省金华市  电信', 'score': 50, 'disable_domains': []}
+2021-08-13 00:47:05 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '112.195.240.60', 'port': '3256', 'protocol': 0, 'nick_type': 0, 'speed': 0.64, 'area': '中国 四川 眉山 联通', 'score': 50, 'disable_domains': [], '_id': '112.195.240.60'}
+2021-08-13 00:49:13 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '47.98.179.39', 'port': '8080', 'protocol': 0, 'nick_type': 0, 'speed': 3.51, 'area': '中国 浙江 杭州 联通', 'score': 50, 'disable_domains': []}
+2021-08-13 00:52:44 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '101.200.127.149', 'port': '3129', 'protocol': 0, 'nick_type': 0, 'speed': 0.8, 'area': '北京市北京市  阿里云', 'score': 50, 'disable_domains': []}
+2021-08-13 01:00:24 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '125.72.106.55', 'port': '3256', 'protocol': 0, 'nick_type': 0, 'speed': 3.49, 'area': '1秒', 'score': 50, 'disable_domains': [], '_id': '125.72.106.55'}
+2021-08-13 01:04:23 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '124.70.46.14', 'port': '3128', 'protocol': 0, 'nick_type': 2, 'speed': 0.29, 'area': '1秒', 'score': 50, 'disable_domains': []}
+2021-08-13 04:08:57 run_spiders.py [line:96] ERROR: HTTPSConnectionPool(host='list.proxylistplus.com', port=443): Max retries exceeded with url: /Fresh-HTTP-Proxy-List-5 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000015EB6BC5A30>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\_socketcommon.py", line 247, in getaddrinfo
+    addrlist = get_hub().resolver.getaddrinfo(host, port, family, type, proto, flags)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\resolver\thread.py", line 63, in getaddrinfo
+    return self.pool.apply(_socket.getaddrinfo, args, kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\pool.py", line 161, in apply
+    return self.spawn(func, *args, **kwds).get()
+  File "src\\gevent\\event.py", line 329, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 359, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 347, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 327, in gevent._gevent_cevent.AsyncResult._raise_exception
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\_compat.py", line 65, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\threadpool.py", line 167, in __run_task
+    thread_result.set(func(*args, **kwargs))
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 1010, in _validate_conn
+    conn.connect()
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 353, in connect
+    conn = self._new_conn()
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x0000015EB6BC5A30>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='list.proxylistplus.com', port=443): Max retries exceeded with url: /Fresh-HTTP-Proxy-List-5 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000015EB6BC5A30>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\run_spiders.py", line 86, in _execute_one_spider_task
+    for proxy in spider.get_proxies():
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\base_spider.py", line 76, in get_proxies
+    page = self.get_page_from_url(url)
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\base_spider.py", line 50, in get_page_from_url
+    response = requests.get(url,headers=get_request_headers())
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='list.proxylistplus.com', port=443): Max retries exceeded with url: /Fresh-HTTP-Proxy-List-5 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000015EB6BC5A30>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-08-13 07:38:47 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '101.200.127.149', 'port': '3129', 'protocol': 0, 'nick_type': 0, 'speed': 1.39, 'area': '北京市北京市  阿里云', 'score': 50, 'disable_domains': []}
+2021-08-13 07:38:52 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '101.200.127.149', 'port': '3129', 'protocol': 0, 'nick_type': 0, 'speed': 4.4, 'area': '北京市北京市  阿里云', 'score': 50, 'disable_domains': []}
+2021-08-13 07:38:52 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '36.66.124.193', 'port': '3128', 'protocol': 0, 'nick_type': 2, 'speed': 1.64, 'area': '印度尼西亚', 'score': 50, 'disable_domains': []}
+2021-08-13 07:39:31 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '193.105.107.155', 'port': '8080', 'protocol': 0, 'nick_type': 2, 'speed': 7.75, 'area': '俄罗斯', 'score': 50, 'disable_domains': [], '_id': '193.105.107.155'}
+2021-08-13 07:39:59 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '111.72.25.180', 'port': '3256', 'protocol': 0, 'nick_type': 0, 'speed': 4.37, 'area': '中国 江西 抚州 电信', 'score': 50, 'disable_domains': [], '_id': '111.72.25.180'}
+2021-08-13 07:40:12 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '45.115.175.112', 'port': '57919', 'protocol': 0, 'nick_type': 0, 'speed': 6.68, 'area': 'IANA', 'score': 50, 'disable_domains': []}
+2021-08-13 07:40:19 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '101.200.127.149', 'port': '3129', 'protocol': 0, 'nick_type': 0, 'speed': 2.47, 'area': '北京市北京市  阿里云', 'score': 50, 'disable_domains': []}
+2021-08-13 07:42:59 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '218.21.96.128', 'port': '58080', 'protocol': 0, 'nick_type': 0, 'speed': 4.75, 'area': '广西壮族自治区玉林市  电信', 'score': 50, 'disable_domains': [], '_id': '218.21.96.128'}
+2021-08-13 07:44:30 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '106.45.105.180', 'port': '3256', 'protocol': 0, 'nick_type': 0, 'speed': 0.68, 'area': '中国 宁夏 中卫 电信', 'score': 50, 'disable_domains': [], '_id': '106.45.105.180'}
+2021-08-13 07:47:33 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '47.98.179.39', 'port': '8080', 'protocol': 0, 'nick_type': 0, 'speed': 1.64, 'area': '中国 浙江 杭州 联通', 'score': 50, 'disable_domains': []}
+2021-08-13 07:47:56 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '101.200.127.149', 'port': '3129', 'protocol': 0, 'nick_type': 0, 'speed': 1.77, 'area': '北京市北京市  阿里云', 'score': 50, 'disable_domains': []}
+2021-08-13 07:51:57 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '47.98.179.39', 'port': '8080', 'protocol': 0, 'nick_type': 0, 'speed': 0.67, 'area': '中国 浙江 杭州 联通', 'score': 50, 'disable_domains': []}
+2021-08-13 07:53:45 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '120.199.210.18', 'port': '8383', 'protocol': 0, 'nick_type': 0, 'speed': 0.61, 'area': '中国 浙江 绍兴 移动', 'score': 50, 'disable_domains': []}
+2021-08-13 07:55:24 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '103.147.43.255', 'port': '8080', 'protocol': 0, 'nick_type': 2, 'speed': 1.51, 'area': '2秒', 'score': 50, 'disable_domains': []}
+2021-08-13 07:58:19 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '59.55.162.185', 'port': '3256', 'protocol': 0, 'nick_type': 0, 'speed': 0.54, 'area': '2秒', 'score': 50, 'disable_domains': [], '_id': '59.55.162.185'}
+2021-08-13 11:01:05 run_spiders.py [line:96] ERROR: HTTPSConnectionPool(host='list.proxylistplus.com', port=443): Max retries exceeded with url: /Fresh-HTTP-Proxy-List-4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027DAA91A5B0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\_socketcommon.py", line 247, in getaddrinfo
+    addrlist = get_hub().resolver.getaddrinfo(host, port, family, type, proto, flags)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\resolver\thread.py", line 63, in getaddrinfo
+    return self.pool.apply(_socket.getaddrinfo, args, kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\pool.py", line 161, in apply
+    return self.spawn(func, *args, **kwds).get()
+  File "src\\gevent\\event.py", line 329, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 359, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 347, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 327, in gevent._gevent_cevent.AsyncResult._raise_exception
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\_compat.py", line 65, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\threadpool.py", line 167, in __run_task
+    thread_result.set(func(*args, **kwargs))
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 1010, in _validate_conn
+    conn.connect()
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 353, in connect
+    conn = self._new_conn()
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x0000027DAA91A5B0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='list.proxylistplus.com', port=443): Max retries exceeded with url: /Fresh-HTTP-Proxy-List-4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027DAA91A5B0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\run_spiders.py", line 86, in _execute_one_spider_task
+    # 遍历爬虫对象的get_proxies方法，获取代理ip
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\base_spider.py", line 76, in get_proxies
+    page = self.get_page_from_url(url)
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\base_spider.py", line 50, in get_page_from_url
+    response = requests.get(url,headers=get_request_headers())
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='list.proxylistplus.com', port=443): Max retries exceeded with url: /Fresh-HTTP-Proxy-List-4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027DAA91A5B0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-08-13 11:01:05 run_spiders.py [line:96] ERROR: HTTPConnectionPool(host='www.ip3366.net', port=80): Max retries exceeded with url: /free/?stype=2&page=6 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027DAA8DC700>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\_socketcommon.py", line 247, in getaddrinfo
+    addrlist = get_hub().resolver.getaddrinfo(host, port, family, type, proto, flags)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\resolver\thread.py", line 63, in getaddrinfo
+    return self.pool.apply(_socket.getaddrinfo, args, kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\pool.py", line 161, in apply
+    return self.spawn(func, *args, **kwds).get()
+  File "src\\gevent\\event.py", line 329, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 359, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 347, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 327, in gevent._gevent_cevent.AsyncResult._raise_exception
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\_compat.py", line 65, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\threadpool.py", line 167, in __run_task
+    thread_result.set(func(*args, **kwargs))
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1257, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1303, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1252, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1012, in _send_output
+    self.send(msg)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 952, in send
+    self.connect()
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x0000027DAA8DC700>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='www.ip3366.net', port=80): Max retries exceeded with url: /free/?stype=2&page=6 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027DAA8DC700>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\run_spiders.py", line 86, in _execute_one_spider_task
+    # 遍历爬虫对象的get_proxies方法，获取代理ip
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\base_spider.py", line 76, in get_proxies
+    page = self.get_page_from_url(url)
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\base_spider.py", line 50, in get_page_from_url
+    response = requests.get(url,headers=get_request_headers())
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='www.ip3366.net', port=80): Max retries exceeded with url: /free/?stype=2&page=6 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027DAA8DC700>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-08-15 23:01:33 run_spiders.py [line:96] ERROR: HTTPSConnectionPool(host='list.proxylistplus.com', port=443): Max retries exceeded with url: /Fresh-HTTP-Proxy-List-1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027DAA91A1C0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\_socketcommon.py", line 247, in getaddrinfo
+    addrlist = get_hub().resolver.getaddrinfo(host, port, family, type, proto, flags)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\resolver\thread.py", line 63, in getaddrinfo
+    return self.pool.apply(_socket.getaddrinfo, args, kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\pool.py", line 161, in apply
+    return self.spawn(func, *args, **kwds).get()
+  File "src\\gevent\\event.py", line 329, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 359, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 347, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 327, in gevent._gevent_cevent.AsyncResult._raise_exception
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\_compat.py", line 65, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\threadpool.py", line 167, in __run_task
+    thread_result.set(func(*args, **kwargs))
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 1010, in _validate_conn
+    conn.connect()
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 353, in connect
+    conn = self._new_conn()
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x0000027DAA91A1C0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='list.proxylistplus.com', port=443): Max retries exceeded with url: /Fresh-HTTP-Proxy-List-1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027DAA91A1C0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\run_spiders.py", line 86, in _execute_one_spider_task
+    # 遍历爬虫对象的get_proxies方法，获取代理ip
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\base_spider.py", line 76, in get_proxies
+    page = self.get_page_from_url(url)
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\base_spider.py", line 50, in get_page_from_url
+    response = requests.get(url,headers=get_request_headers())
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='list.proxylistplus.com', port=443): Max retries exceeded with url: /Fresh-HTTP-Proxy-List-1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027DAA91A1C0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-08-15 23:01:33 run_spiders.py [line:96] ERROR: HTTPConnectionPool(host='www.66ip.cn', port=80): Max retries exceeded with url: /1.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027DAA90C970>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\_socketcommon.py", line 247, in getaddrinfo
+    addrlist = get_hub().resolver.getaddrinfo(host, port, family, type, proto, flags)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\resolver\thread.py", line 63, in getaddrinfo
+    return self.pool.apply(_socket.getaddrinfo, args, kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\pool.py", line 161, in apply
+    return self.spawn(func, *args, **kwds).get()
+  File "src\\gevent\\event.py", line 329, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 359, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 347, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 327, in gevent._gevent_cevent.AsyncResult._raise_exception
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\_compat.py", line 65, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\threadpool.py", line 167, in __run_task
+    thread_result.set(func(*args, **kwargs))
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1257, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1303, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1252, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1012, in _send_output
+    self.send(msg)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 952, in send
+    self.connect()
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x0000027DAA90C970>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='www.66ip.cn', port=80): Max retries exceeded with url: /1.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027DAA90C970>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\run_spiders.py", line 86, in _execute_one_spider_task
+    # 遍历爬虫对象的get_proxies方法，获取代理ip
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\base_spider.py", line 76, in get_proxies
+    page = self.get_page_from_url(url)
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\base_spider.py", line 50, in get_page_from_url
+    response = requests.get(url,headers=get_request_headers())
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='www.66ip.cn', port=80): Max retries exceeded with url: /1.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027DAA90C970>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-08-15 23:01:33 run_spiders.py [line:96] ERROR: HTTPConnectionPool(host='www.ip3366.net', port=80): Max retries exceeded with url: /free/?stype=1&page=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027DAA82A220>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\_socketcommon.py", line 247, in getaddrinfo
+    addrlist = get_hub().resolver.getaddrinfo(host, port, family, type, proto, flags)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\resolver\thread.py", line 63, in getaddrinfo
+    return self.pool.apply(_socket.getaddrinfo, args, kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\pool.py", line 161, in apply
+    return self.spawn(func, *args, **kwds).get()
+  File "src\\gevent\\event.py", line 329, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 359, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 347, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 327, in gevent._gevent_cevent.AsyncResult._raise_exception
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\_compat.py", line 65, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\threadpool.py", line 167, in __run_task
+    thread_result.set(func(*args, **kwargs))
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1257, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1303, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1252, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1012, in _send_output
+    self.send(msg)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 952, in send
+    self.connect()
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x0000027DAA82A220>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='www.ip3366.net', port=80): Max retries exceeded with url: /free/?stype=1&page=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027DAA82A220>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\run_spiders.py", line 86, in _execute_one_spider_task
+    # 遍历爬虫对象的get_proxies方法，获取代理ip
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\base_spider.py", line 76, in get_proxies
+    page = self.get_page_from_url(url)
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\base_spider.py", line 50, in get_page_from_url
+    response = requests.get(url,headers=get_request_headers())
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='www.ip3366.net', port=80): Max retries exceeded with url: /free/?stype=1&page=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027DAA82A220>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-08-15 23:01:36 run_spiders.py [line:96] ERROR: HTTPSConnectionPool(host='www.kuaidaili.com', port=443): Max retries exceeded with url: /free/inha/1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027DAA81AC10>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\_socketcommon.py", line 247, in getaddrinfo
+    addrlist = get_hub().resolver.getaddrinfo(host, port, family, type, proto, flags)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\resolver\thread.py", line 63, in getaddrinfo
+    return self.pool.apply(_socket.getaddrinfo, args, kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\pool.py", line 161, in apply
+    return self.spawn(func, *args, **kwds).get()
+  File "src\\gevent\\event.py", line 329, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 359, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 347, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 327, in gevent._gevent_cevent.AsyncResult._raise_exception
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\_compat.py", line 65, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\threadpool.py", line 167, in __run_task
+    thread_result.set(func(*args, **kwargs))
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 1010, in _validate_conn
+    conn.connect()
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 353, in connect
+    conn = self._new_conn()
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x0000027DAA81AC10>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='www.kuaidaili.com', port=443): Max retries exceeded with url: /free/inha/1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027DAA81AC10>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\run_spiders.py", line 86, in _execute_one_spider_task
+    # 遍历爬虫对象的get_proxies方法，获取代理ip
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\base_spider.py", line 76, in get_proxies
+    page = self.get_page_from_url(url)
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\proxy_spiders.py", line 73, in get_page_from_url
+    return super().get_page_from_url(url)
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\base_spider.py", line 50, in get_page_from_url
+    response = requests.get(url,headers=get_request_headers())
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.kuaidaili.com', port=443): Max retries exceeded with url: /free/inha/1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027DAA81AC10>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-08-15 23:05:15 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '101.200.127.149', 'port': '3129', 'protocol': 0, 'nick_type': 0, 'speed': 0.34, 'area': '北京市北京市  阿里云', 'score': 50, 'disable_domains': []}
+2021-08-15 23:05:51 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '101.200.127.149', 'port': '3129', 'protocol': 0, 'nick_type': 0, 'speed': 0.83, 'area': '北京市北京市  阿里云', 'score': 50, 'disable_domains': []}
+2021-08-15 23:06:18 mongo_pool.py [line:55] INFO: 插入新的代理：{'ip': '106.45.104.232', 'port': '3256', 'protocol': 0, 'nick_type': 0, 'speed': 0.7, 'area': '中国 宁夏 中卫 电信', 'score': 50, 'disable_domains': [], '_id': '106.45.104.232'}
+2021-08-15 23:06:27 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '36.66.124.193', 'port': '3128', 'protocol': 0, 'nick_type': 2, 'speed': 1.66, 'area': '印度尼西亚', 'score': 50, 'disable_domains': []}
+2021-08-15 23:08:19 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '101.200.127.149', 'port': '3129', 'protocol': 0, 'nick_type': 0, 'speed': 0.6, 'area': '北京市北京市  阿里云', 'score': 50, 'disable_domains': []}
+2021-08-15 23:08:20 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '101.200.127.149', 'port': '3129', 'protocol': 0, 'nick_type': 0, 'speed': 0.49, 'area': '北京市北京市  阿里云', 'score': 50, 'disable_domains': []}
+2021-08-15 23:13:18 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '101.200.127.149', 'port': '3129', 'protocol': 0, 'nick_type': 0, 'speed': 0.51, 'area': '北京市北京市  阿里云', 'score': 50, 'disable_domains': []}
+2021-08-15 23:13:18 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '101.200.127.149', 'port': '3129', 'protocol': 0, 'nick_type': 0, 'speed': 0.5, 'area': '北京市北京市  阿里云', 'score': 50, 'disable_domains': []}
+2021-08-15 23:16:01 mongo_pool.py [line:57] WARNING: 已经存在的代理：{'ip': '47.98.179.39', 'port': '8080', 'protocol': 0, 'nick_type': 0, 'speed': 3.52, 'area': '中国 浙江 杭州 联通', 'score': 50, 'disable_domains': []}
+2021-08-16 23:13:55 run_spiders.py [line:97] ERROR: HTTPSConnectionPool(host='list.proxylistplus.com', port=443): Max retries exceeded with url: /Fresh-HTTP-Proxy-List-1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000020802EBA790>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\_socketcommon.py", line 247, in getaddrinfo
+    addrlist = get_hub().resolver.getaddrinfo(host, port, family, type, proto, flags)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\resolver\thread.py", line 63, in getaddrinfo
+    return self.pool.apply(_socket.getaddrinfo, args, kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\pool.py", line 161, in apply
+    return self.spawn(func, *args, **kwds).get()
+  File "src\\gevent\\event.py", line 329, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 359, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 347, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 327, in gevent._gevent_cevent.AsyncResult._raise_exception
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\_compat.py", line 65, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\threadpool.py", line 167, in __run_task
+    thread_result.set(func(*args, **kwargs))
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 1010, in _validate_conn
+    conn.connect()
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 353, in connect
+    conn = self._new_conn()
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x0000020802EBA790>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='list.proxylistplus.com', port=443): Max retries exceeded with url: /Fresh-HTTP-Proxy-List-1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000020802EBA790>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\run_spiders.py", line 87, in _execute_one_spider_task
+    for proxy in spider.get_proxies():
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\base_spider.py", line 76, in get_proxies
+    page = self.get_page_from_url(url)
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\base_spider.py", line 50, in get_page_from_url
+    response = requests.get(url,headers=get_request_headers())
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='list.proxylistplus.com', port=443): Max retries exceeded with url: /Fresh-HTTP-Proxy-List-1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000020802EBA790>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-08-16 23:13:56 run_spiders.py [line:97] ERROR: HTTPConnectionPool(host='www.66ip.cn', port=80): Max retries exceeded with url: /1.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020802E78A30>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\_socketcommon.py", line 247, in getaddrinfo
+    addrlist = get_hub().resolver.getaddrinfo(host, port, family, type, proto, flags)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\resolver\thread.py", line 63, in getaddrinfo
+    return self.pool.apply(_socket.getaddrinfo, args, kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\pool.py", line 161, in apply
+    return self.spawn(func, *args, **kwds).get()
+  File "src\\gevent\\event.py", line 329, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 359, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 347, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 327, in gevent._gevent_cevent.AsyncResult._raise_exception
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\_compat.py", line 65, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\threadpool.py", line 167, in __run_task
+    thread_result.set(func(*args, **kwargs))
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1257, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1303, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1252, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1012, in _send_output
+    self.send(msg)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 952, in send
+    self.connect()
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x0000020802E78A30>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='www.66ip.cn', port=80): Max retries exceeded with url: /1.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020802E78A30>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\run_spiders.py", line 87, in _execute_one_spider_task
+    for proxy in spider.get_proxies():
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\base_spider.py", line 76, in get_proxies
+    page = self.get_page_from_url(url)
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\base_spider.py", line 50, in get_page_from_url
+    response = requests.get(url,headers=get_request_headers())
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='www.66ip.cn', port=80): Max retries exceeded with url: /1.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020802E78A30>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-08-16 23:13:57 run_spiders.py [line:97] ERROR: HTTPConnectionPool(host='www.ip3366.net', port=80): Max retries exceeded with url: /free/?stype=1&page=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020802E78820>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\_socketcommon.py", line 247, in getaddrinfo
+    addrlist = get_hub().resolver.getaddrinfo(host, port, family, type, proto, flags)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\resolver\thread.py", line 63, in getaddrinfo
+    return self.pool.apply(_socket.getaddrinfo, args, kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\pool.py", line 161, in apply
+    return self.spawn(func, *args, **kwds).get()
+  File "src\\gevent\\event.py", line 329, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 359, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 347, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 327, in gevent._gevent_cevent.AsyncResult._raise_exception
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\_compat.py", line 65, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\threadpool.py", line 167, in __run_task
+    thread_result.set(func(*args, **kwargs))
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1257, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1303, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1252, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1012, in _send_output
+    self.send(msg)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 952, in send
+    self.connect()
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x0000020802E78820>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='www.ip3366.net', port=80): Max retries exceeded with url: /free/?stype=1&page=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020802E78820>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\run_spiders.py", line 87, in _execute_one_spider_task
+    for proxy in spider.get_proxies():
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\base_spider.py", line 76, in get_proxies
+    page = self.get_page_from_url(url)
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\base_spider.py", line 50, in get_page_from_url
+    response = requests.get(url,headers=get_request_headers())
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='www.ip3366.net', port=80): Max retries exceeded with url: /free/?stype=1&page=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020802E78820>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-08-16 23:13:57 run_spiders.py [line:97] ERROR: HTTPSConnectionPool(host='www.kuaidaili.com', port=443): Max retries exceeded with url: /free/inha/1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000020802EFE9D0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\_socketcommon.py", line 247, in getaddrinfo
+    addrlist = get_hub().resolver.getaddrinfo(host, port, family, type, proto, flags)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\resolver\thread.py", line 63, in getaddrinfo
+    return self.pool.apply(_socket.getaddrinfo, args, kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\pool.py", line 161, in apply
+    return self.spawn(func, *args, **kwds).get()
+  File "src\\gevent\\event.py", line 329, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 359, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 347, in gevent._gevent_cevent.AsyncResult.get
+  File "src\\gevent\\event.py", line 327, in gevent._gevent_cevent.AsyncResult._raise_exception
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\_compat.py", line 65, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\gevent\threadpool.py", line 167, in __run_task
+    thread_result.set(func(*args, **kwargs))
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 1010, in _validate_conn
+    conn.connect()
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 353, in connect
+    conn = self._new_conn()
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x0000020802EFE9D0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='www.kuaidaili.com', port=443): Max retries exceeded with url: /free/inha/1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000020802EFE9D0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\run_spiders.py", line 87, in _execute_one_spider_task
+    for proxy in spider.get_proxies():
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\base_spider.py", line 76, in get_proxies
+    page = self.get_page_from_url(url)
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\proxy_spiders.py", line 73, in get_page_from_url
+    return super().get_page_from_url(url)
+  File "D:\07python_auto\04IPProxyPool\core\proxy_spider\base_spider.py", line 50, in get_page_from_url
+    response = requests.get(url,headers=get_request_headers())
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Mi\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.kuaidaili.com', port=443): Max retries exceeded with url: /free/inha/1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000020802EFE9D0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
